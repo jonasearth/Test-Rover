@@ -19,7 +19,7 @@ $ npm i
 $ yarn start
 ```
 
-5- check the file ``` output.txt````(or another name... check the .env file)
+5- check the file ``` output.txt``` (or another name... check the .env file)
 
 6- to run tests:
 ```bash
